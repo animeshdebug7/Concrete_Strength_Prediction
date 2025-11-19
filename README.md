@@ -16,7 +16,7 @@ Dataset
 Project Structure
 -----------------
 
-*   **Data Preprocessing**: Cleaning data (removing Nan, Duplicates etc.) , Feature engineering (Combining features) and splitting the data.
+*   **Data Preprocessing**: Cleaning data (removing Nan, Duplicates etc.) , Feature engineering (Combining features) and splitting the data, Used SMOTE for Data Balancing.
     
 
 **(Took Insights from a civil engineer about the dataset and how to treat each feature)**
