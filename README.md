@@ -46,6 +46,12 @@ Usage
 2.  Run each cell step-by-step to preprocess data, fit models, and view results.
     
 
+![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/483fc090cd114de989bde605a7a76a7f8b035d6f/reg.png)
+![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/483fc090cd114de989bde605a7a76a7f8b035d6f/reg.png)
+![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/483fc090cd114de989bde605a7a76a7f8b035d6f/reg.png)
+
+
+
 Insights
 --------
 
