@@ -38,9 +38,10 @@ Requirements
 *   Libraries: numpy, pandas, scikit-learn, catboost, matplotlib, seaborn,
     
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Usage -----   `
+Usage
+------------
 
-1.  Open the notebook ML\_assignment2.ipynb.
+1.  Open the notebook ML_assignment2.ipynb.
     
 2.  Run each cell step-by-step to preprocess data, fit models, and view results.
     
