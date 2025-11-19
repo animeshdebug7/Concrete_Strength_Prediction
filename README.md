@@ -16,7 +16,11 @@ Dataset
 Project Structure
 -----------------
 
-*   **Data Preprocessing**: Cleaning data (removing Nan, Duplicates etc.) , Feature engineering (Combining features) and splitting the data, Used SMOTE for Data Balancing.
+*   **Data Preprocessing**:
+- Cleaning data (removing Nan, Duplicates etc.)
+- Removing Outliers
+- Feature engineering (Combining features) and splitting the data
+- Used SMOTE for Data Balancing
     
 
 **(Took Insights from a civil engineer about the dataset and how to treat each feature)**
@@ -44,10 +48,20 @@ Usage
 1.  Open the notebook ML_assignment2.ipynb.
     
 2.  Run each cell step-by-step to preprocess data, fit models, and view results.
-    
 
+   
+Results
+------------ 
+1. Regression Comparison Table
+   
 ![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/483fc090cd114de989bde605a7a76a7f8b035d6f/reg.png)
+
+2. Classification Comparison Table (without Balancing the Data)
+
 ![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/499ee86dfced2e21d1fa30c47543fcb873bb434d/class_imbal.png)
+
+3. Classification Comparison Table (Balanced Data)
+   
 ![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/c3eaf06fb0fe0f02f32b4255aec9c013f9f043bc/class_bal.png)
 
 
@@ -57,6 +71,10 @@ Insights
 
 *   For classification tasks, ensure labels are binary (0/1) before evaluating metrics.
     
-*   CatBoost models handle categorical features natively and is the best performing
-    
 *   Removed L1 reg. in regression due to it diverging for some reason.
+
+*   Balancing was Necessary
+
+*   Boosting models generally perform better
+
+*   Combining Features improved metrics of almost every model (Regression and Classification)
