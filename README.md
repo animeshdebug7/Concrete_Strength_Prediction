@@ -48,7 +48,7 @@ Usage
 
 ![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/483fc090cd114de989bde605a7a76a7f8b035d6f/reg.png)
 ![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/499ee86dfced2e21d1fa30c47543fcb873bb434d/class_imbal.png)
-![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/483fc090cd114de989bde605a7a76a7f8b035d6f/reg.png)
+![image alt](https://github.com/animeshdebug7/Concrete_Strength_Prediction/blob/c3eaf06fb0fe0f02f32b4255aec9c013f9f043bc/class_bal.png)
 
 
 
